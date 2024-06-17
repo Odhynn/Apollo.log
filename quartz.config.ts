@@ -22,9 +22,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "mononoki",
-        body: "mononoki",
-        code: "mononoki",
+        header: "Ubuntu Mono",
+        body: "Ubuntu Mono",
+        code: "Ubuntu Mono",
       },
       colors: {
         lightMode: {
