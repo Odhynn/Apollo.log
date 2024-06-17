@@ -22,9 +22,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Lekton",
-        body: "Lekton",
-        code: "Lekton",
+        header: "DM Mono",
+        body: "DM Mono",
+        code: "DM Mono",
       },
       colors: {
         lightMode: {
