@@ -1,0 +1,1 @@
+bandit clan led by [[Kas]]
