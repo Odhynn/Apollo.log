@@ -22,9 +22,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Share Tech Mono",
-        body: "Share Tech Mono",
-        code: "Share Tech Mono",
+        header: "Cascadia Code",
+        body: "Cascadia Code",
+        code: "Cascadia Code",
       },
       colors: {
         lightMode: {
