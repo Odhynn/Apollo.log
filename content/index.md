@@ -321,6 +321,42 @@ party elects to move offroad and send [[Aldring]] [[Apollo]] to stake out the ch
 > [[Aldring]] [[Apollo]] run, meet party, party runs NW
 
 end up in swamps, river takes too many turns, water stagnates
-bandit-prisoner informs that Bolgbolg = oni, [[Kas]] : accord w. oni to dispatch some of their own to help in case of [[Newport]] missions
+[[Falk]] bandit-prisoner informs that Bolgbolg = oni, [[Kas]] : accord w. oni to dispatch some of their own to help in case of [[Newport]] missions
 
 `discuss:` party.direction
+
+### Entry 06 / 2024-06-23
+
+## 4825-07-16
+
+`weather:` cold and damp
+walk along the river
+crossing the river w. packmule, [[Aldring]] spots shadow lurching from the water and yells, [[Apollo]] takes aim, [[Grok]] jumps in the water
+
+> [!danger] giant crocodile attack
+> croc lashes out of water and closes jaws on mule's legs
+> [[Apollo]] takes the shot = headshot instantly kills croc `crit=9`
+
+crocodile sinks into river, [[Aelthar]] swims down to gorge on its entrail
+[[Aldring]] patches up mule, names it Dei
+
+## 4825-07-17
+
+`find:` ruined dwarven bunker
+
+> [!quote] Falk
+> Kas wanted to turn it into outpost
+> sent 2 teams to clean it up, none returned
+
+after brief discourse, `party` elects to go in
+[[Zyrinthia]] tells [[Falk]] that he will test all the traps 
+
+Dalhunderen
+
+[[Falk]] : ordered ahead to scout w. torch
+narrowly escapes spiked trap in narrow cavernous passage
+`party` > other way down stairs
+[[Aldring]] disarms 3 alarm snares, resets one > entrance
+leave pack-mule near entrance 
+
+further down the stairs, [[Falk]] gets fried by shock trap
